@@ -15,7 +15,9 @@ Undersampling produced a balanced accuracy score of .59 for our testing dataset.
 
 *   Combination Sampling
 
-Combination produced a balanced accuracy score of .55 for our testing dataset. We also see from our screenshot below that this produced a high_risk precision of .01 and a low risk precision of 1 for this model. The recall values for high were .72 and the low were .58. <img src='Resources/Combination.png' width='400'>
+Combination produced a balanced accuracy score of .55 for our testing dataset. We also see from our screenshot below that this produced a high_risk precision of .01 and a low risk precision of 1 for this model. The recall values for high were .72 and the low were .58. 
+
+<img src='Resources/Combination.png' width='400'>
 
 *   Balanced Random Forest Classifier
 Combination produced a balanced accuracy score of .99 for our testing dataset. We also see from our screenshot below that this produced a high_risk precision of .85 and a low risk precision of 1 for this model. The recall values for high and low were 1.
